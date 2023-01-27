@@ -5,5 +5,5 @@ Semana 1 Preparación de las plataformas softwares a descargar, cuenta en Github
 + lista 1
 + lista 2
 + etc
-+ ´´hola´´
-+**hola**
++ _hola_
+27/01/23 actualización y descarga de programas en computadora personal
